@@ -23,8 +23,3 @@ basic data structures.
 1. Compile the program using any C++ compiler
 2. Run the executable
 3. Use the menu to manage processes and run scheduling
-
-## Students
-- 
-- 
-- 
