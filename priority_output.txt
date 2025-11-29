@@ -1,0 +1,7 @@
+ID    Name      Burst   Priority  Waiting   Turnaround  
+--------------------------------------------------------------
+1     Task1     2       5         0         2           
+2     Task2     5       10        2         7           
+
+Average Waiting Time: 1
+Average Turnaround Time: 4.5
